@@ -1,0 +1,1325 @@
+{
+  "vaultName": "Années 30 - Casino",
+  "lastExport": 1748264215298,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon obsidian-themepocalypse",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Accessoires/PDF/François Renaud/Casiers judiciaires.pdf",
+    "Accessoires/PDF/François Renaud/Dossier d'enquête.pdf",
+    "Accessoires/PDF/François Renaud/Dossier Fraternité.pdf",
+    "Accessoires/PDF/François Renaud/Dossier Minuit.pdf",
+    "Accessoires/PDF/François Renaud/Dossier nouveaux riches.pdf",
+    "Accessoires/PDF/Marguerite Blain/Article en cours - Montrevel.pdf",
+    "Accessoires/PDF/Marguerite Blain/Dossier journaliste.pdf",
+    "Accessoires/PDF/Marguerite Blain/Echo Beaux Quartiers.pdf",
+    "Accessoires/PDF/Marguerite Blain/Note Mea Culpa manuscrite.pdf",
+    "Accessoires/PDF/Carnet faussaire.pdf",
+    "Accessoires/PDF/Contrat immobilier Montrevel.pdf",
+    "Accessoires/PDF/Descriptif Néovarol.pdf",
+    "Accessoires/PDF/Dossier Minuit complémentaire.pdf",
+    "Accessoires/PDF/Dossier Néovarol.pdf",
+    "Accessoires/PDF/Facture revente Néovarol.pdf",
+    "Accessoires/PDF/Fiche récap déroulé.pdf",
+    "Accessoires/PDF/Infos lot soirée.pdf",
+    "Accessoires/PDF/Invités couchages.pdf",
+    "Accessoires/PDF/Lettre codée frat + remerciements.pdf",
+    "Accessoires/PDF/Lettre d'amour Lucie Vic + échanges amoureux.pdf",
+    "Accessoires/PDF/Liste invités.pdf",
+    "Accessoires/PDF/Message d'alerte Fraternité + Dossier médical.pdf",
+    "Accessoires/PDF/Preuve crise des domaines.pdf",
+    "Accessoires/PDF/Télégramme décès Olivier.pdf",
+    "Accessoires/PDF/Tickets + Intels + Mot d'adieu.pdf",
+    "Accessoires/PDF/Transaction Vaulx.pdf",
+    "Accessoires/Anxiolytique.md",
+    "Accessoires/Article Hélène Duroc.md",
+    "Accessoires/Article Minuit.md",
+    "Accessoires/Article scandale pharmaceutique.md",
+    "Accessoires/Article sur Montrevel.md",
+    "Accessoires/Article trafic d'alcool.md",
+    "Accessoires/Badge d'enquêteur.md",
+    "Accessoires/Bijou Volkov.md",
+    "Accessoires/Cache Secrète.md",
+    "Accessoires/Carnet de faussaire.md",
+    "Accessoires/Casier judiciaire.md",
+    "Accessoires/Clé du tiroir.md",
+    "Accessoires/Contrat immobilier.md",
+    "Accessoires/Dossier complémentaire Minuit.md",
+    "Accessoires/Dossier d'enquête.md",
+    "Accessoires/Dossier d'enquête Fraternité.md",
+    "Accessoires/Dossier d'enquête Minuit.md",
+    "Accessoires/Dossier d'enquête nouveaux riches.md",
+    "Accessoires/Dossier d'étude Néovarol.md",
+    "Accessoires/Dossier de journaliste.md",
+    "Accessoires/Dossier médical.md",
+    "Accessoires/Échanges romantiques.md",
+    "Accessoires/Facture de vente.md",
+    "Accessoires/Feuille de notes calomnie.md",
+    "Accessoires/Fiche des invités.md",
+    "Accessoires/Fiche Néovarol.md",
+    "Accessoires/Fiole de poison.md",
+    "Accessoires/Fiole de prélèvement.md",
+    "Accessoires/Informations sur le lot de la soirée.md",
+    "Accessoires/Lettre codée Fraternité.md",
+    "Accessoires/Lettre de remerciements.md",
+    "Accessoires/Lettres d'amour.md",
+    "Accessoires/Livre favori.md",
+    "Accessoires/Message d'alerte fraternité.md",
+    "Accessoires/Mot doux.md",
+    "Accessoires/Pastilles de couleur.md",
+    "Accessoires/Photo de François Renaud.md",
+    "Accessoires/Photo Minuit.md",
+    "Accessoires/Photo Victor et maire.md",
+    "Accessoires/Preuve crise de domaines.md",
+    "Accessoires/Reçu de vente d'alcool.md",
+    "Accessoires/Relevés de transferts à la Fraternité.md",
+    "Accessoires/Sachet de poudre.md",
+    "Accessoires/Tatouage.md",
+    "Accessoires/Télégramme Médecin.md",
+    "Accessoires/Tiroir fermé à clé.md",
+    "Accessoires/Transaction domaine Vaulx.md",
+    "Canvas/Accessoires.canvas",
+    "Canvas/Association personnages.canvas",
+    "Canvas/General.canvas",
+    "Compétences/Analyse graphologique.md",
+    "Compétences/Avantage au jeu.md",
+    "Compétences/Examen médical.md",
+    "Compétences/Fouille autorisée.md",
+    "Compétences/Vol à la tire.md",
+    "Évènements/L'opération Minuit.md",
+    "Évènements/La crise des Domaines.md",
+    "Images/Minuit.png",
+    "Images/Photo François Renaud.jpg",
+    "Images/PhotoVictorMaire.jpg",
+    "Images/Tatoo 1.png",
+    "Images/Tatoo 2.png",
+    "Images/Tatoo 3.png",
+    "Lieux/Casino de Montmelas.md",
+    "Lieux/Minuit.md",
+    "Lieux/Montrevel.md",
+    "Personnages/Personnages extérieurs/Ancien maire de Montrevel.md",
+    "Personnages/Personnages extérieurs/Julien Morel.md",
+    "Personnages/Personnages extérieurs/Olivier de Vaulx.md",
+    "Personnages/Adèle de Vaulx.md",
+    "Personnages/Alexandre Beaumont.md",
+    "Personnages/Antoine Marchand.md",
+    "Personnages/Auguste Villedieu.md",
+    "Personnages/Charles Lambert.md",
+    "Personnages/Clara Morel.md",
+    "Personnages/Claude Vasseur.md",
+    "Personnages/Clément Mercier.md",
+    "Personnages/Émile Garin.md",
+    "Personnages/François Renaud.md",
+    "Personnages/Gaston Leblanc.md",
+    "Personnages/Gustavia Dufresne.md",
+    "Personnages/Hélène Duroc.md",
+    "Personnages/Henri Duval.md",
+    "Personnages/Isabelle Fauconnier.md",
+    "Personnages/Jacques Montclair.md",
+    "Personnages/Louise Garin.md",
+    "Personnages/Lucie Roux.md",
+    "Personnages/Lucienne Moreau.md",
+    "Personnages/Madeleine Rousseau.md",
+    "Personnages/Marguerite Blain.md",
+    "Personnages/Mauricette Caron.md",
+    "Personnages/Maxine (Max) Durand.md",
+    "Personnages/Mr. Legrand.md",
+    "Personnages/Pauline Derosiers.md",
+    "Personnages/Raphaëlle Saint-Clair.md",
+    "Personnages/Renée Morin.md",
+    "Personnages/Simone Petit.md",
+    "Personnages/Solange Delcourt.md",
+    "Personnages/Tatiana Ivanovna Volkov.md",
+    "Personnages/Victor Delorme.md",
+    "Pistes/L'affaire Néovarol.md",
+    "Pistes/Le Meurtre.md",
+    "Pistes/Piste de l'amante.md",
+    "Pistes/Piste de l'infiltré.md",
+    "Pistes/Piste du dossier.md",
+    "Pistes/Vol.md",
+    "A penser.md",
+    "Années 30 - Casino.md",
+    "Assassin.md",
+    "Complice.md",
+    "Famille Lambert.md",
+    "Fiche récap déroulé.md",
+    "Fiche type.md",
+    "Fraternité secrète.md",
+    "La Loterie.md",
+    "Modèle de mail.md",
+    "Répartition des chambres.md",
+    "Tic de langage.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
+    "lib/media/photo-françois-renaud.jpg",
+    "lib/media/minuit.png",
+    "lib/media/photovictormaire.jpg",
+    "lib/media/tatoo-1.png",
+    "lib/media/tatoo-2.png",
+    "lib/media/tatoo-3.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Accessoires/PDF/François Renaud/Casiers judiciaires.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 72609,
+      "exportedPath": "accessoires/pdf/françois-renaud/casiers-judiciaires.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/François Renaud/Dossier d'enquête.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 34962,
+      "exportedPath": "accessoires/pdf/françois-renaud/dossier-d'enquête.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/François Renaud/Dossier Fraternité.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 97591,
+      "exportedPath": "accessoires/pdf/françois-renaud/dossier-fraternité.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/François Renaud/Dossier Minuit.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 93209,
+      "exportedPath": "accessoires/pdf/françois-renaud/dossier-minuit.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/François Renaud/Dossier nouveaux riches.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 79889,
+      "exportedPath": "accessoires/pdf/françois-renaud/dossier-nouveaux-riches.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Marguerite Blain/Article en cours - Montrevel.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 99051,
+      "exportedPath": "accessoires/pdf/marguerite-blain/article-en-cours-montrevel.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Marguerite Blain/Dossier journaliste.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 67264,
+      "exportedPath": "accessoires/pdf/marguerite-blain/dossier-journaliste.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Marguerite Blain/Echo Beaux Quartiers.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1679477,
+      "exportedPath": "accessoires/pdf/marguerite-blain/echo-beaux-quartiers.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Marguerite Blain/Note Mea Culpa manuscrite.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 66399,
+      "exportedPath": "accessoires/pdf/marguerite-blain/note-mea-culpa-manuscrite.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Carnet faussaire.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 91727,
+      "exportedPath": "accessoires/pdf/carnet-faussaire.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Contrat immobilier Montrevel.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 77176,
+      "exportedPath": "accessoires/pdf/contrat-immobilier-montrevel.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Descriptif Néovarol.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 70189,
+      "exportedPath": "accessoires/pdf/descriptif-néovarol.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Dossier Minuit complémentaire.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 92152,
+      "exportedPath": "accessoires/pdf/dossier-minuit-complémentaire.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Dossier Néovarol.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 133685,
+      "exportedPath": "accessoires/pdf/dossier-néovarol.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Facture revente Néovarol.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 81901,
+      "exportedPath": "accessoires/pdf/facture-revente-néovarol.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Fiche récap déroulé.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 111330,
+      "exportedPath": "accessoires/pdf/fiche-récap-déroulé.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Infos lot soirée.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1861248,
+      "exportedPath": "accessoires/pdf/infos-lot-soirée.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Invités couchages.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 36669,
+      "exportedPath": "accessoires/pdf/invités-couchages.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Lettre codée frat + remerciements.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 59783,
+      "exportedPath": "accessoires/pdf/lettre-codée-frat-+-remerciements.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Lettre d'amour Lucie Vic + échanges amoureux.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 117262,
+      "exportedPath": "accessoires/pdf/lettre-d'amour-lucie-vic-+-échanges-amoureux.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Liste invités.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 93806,
+      "exportedPath": "accessoires/pdf/liste-invités.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Message d'alerte Fraternité + Dossier médical.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 68711,
+      "exportedPath": "accessoires/pdf/message-d'alerte-fraternité-+-dossier-médical.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Preuve crise des domaines.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 267546,
+      "exportedPath": "accessoires/pdf/preuve-crise-des-domaines.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Télégramme décès Olivier.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 50656,
+      "exportedPath": "accessoires/pdf/télégramme-décès-olivier.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Tickets + Intels + Mot d'adieu.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 110672,
+      "exportedPath": "accessoires/pdf/tickets-+-intels-+-mot-d'adieu.pdf",
+      "dependencies": []
+    },
+    "Accessoires/PDF/Transaction Vaulx.pdf": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 64468,
+      "exportedPath": "accessoires/pdf/transaction-vaulx.pdf",
+      "dependencies": []
+    },
+    "Accessoires/Anxiolytique.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 122,
+      "exportedPath": "accessoires/anxiolytique.html",
+      "dependencies": []
+    },
+    "Accessoires/Article Hélène Duroc.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2964,
+      "exportedPath": "accessoires/article-hélène-duroc.html",
+      "dependencies": []
+    },
+    "Accessoires/Article Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4085,
+      "exportedPath": "accessoires/article-minuit.html",
+      "dependencies": []
+    },
+    "Accessoires/Article scandale pharmaceutique.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1792,
+      "exportedPath": "accessoires/article-scandale-pharmaceutique.html",
+      "dependencies": []
+    },
+    "Accessoires/Article sur Montrevel.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4320,
+      "exportedPath": "accessoires/article-sur-montrevel.html",
+      "dependencies": []
+    },
+    "Accessoires/Article trafic d'alcool.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2113,
+      "exportedPath": "accessoires/article-trafic-d'alcool.html",
+      "dependencies": []
+    },
+    "Accessoires/Badge d'enquêteur.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 78,
+      "exportedPath": "accessoires/badge-d'enquêteur.html",
+      "dependencies": []
+    },
+    "Accessoires/Bijou Volkov.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 346,
+      "exportedPath": "accessoires/bijou-volkov.html",
+      "dependencies": []
+    },
+    "Accessoires/Cache Secrète.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 259,
+      "exportedPath": "accessoires/cache-secrète.html",
+      "dependencies": []
+    },
+    "Accessoires/Carnet de faussaire.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 6489,
+      "exportedPath": "accessoires/carnet-de-faussaire.html",
+      "dependencies": []
+    },
+    "Accessoires/Casier judiciaire.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3979,
+      "exportedPath": "accessoires/casier-judiciaire.html",
+      "dependencies": []
+    },
+    "Accessoires/Clé du tiroir.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 80,
+      "exportedPath": "accessoires/clé-du-tiroir.html",
+      "dependencies": []
+    },
+    "Accessoires/Contrat immobilier.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3372,
+      "exportedPath": "accessoires/contrat-immobilier.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier complémentaire Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4745,
+      "exportedPath": "accessoires/dossier-complémentaire-minuit.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier d'enquête.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1627,
+      "exportedPath": "accessoires/dossier-d'enquête.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier d'enquête Fraternité.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3832,
+      "exportedPath": "accessoires/dossier-d'enquête-fraternité.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier d'enquête Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 5145,
+      "exportedPath": "accessoires/dossier-d'enquête-minuit.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier d'enquête nouveaux riches.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3638,
+      "exportedPath": "accessoires/dossier-d'enquête-nouveaux-riches.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier d'étude Néovarol.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 10837,
+      "exportedPath": "accessoires/dossier-d'étude-néovarol.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier de journaliste.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1309,
+      "exportedPath": "accessoires/dossier-de-journaliste.html",
+      "dependencies": []
+    },
+    "Accessoires/Dossier médical.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1080,
+      "exportedPath": "accessoires/dossier-médical.html",
+      "dependencies": []
+    },
+    "Accessoires/Échanges romantiques.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1097,
+      "exportedPath": "accessoires/échanges-romantiques.html",
+      "dependencies": []
+    },
+    "Accessoires/Facture de vente.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3191,
+      "exportedPath": "accessoires/facture-de-vente.html",
+      "dependencies": []
+    },
+    "Accessoires/Feuille de notes calomnie.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1787,
+      "exportedPath": "accessoires/feuille-de-notes-calomnie.html",
+      "dependencies": []
+    },
+    "Accessoires/Fiche des invités.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 7340,
+      "exportedPath": "accessoires/fiche-des-invités.html",
+      "dependencies": []
+    },
+    "Accessoires/Fiche Néovarol.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2378,
+      "exportedPath": "accessoires/fiche-néovarol.html",
+      "dependencies": []
+    },
+    "Accessoires/Fiole de poison.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 74,
+      "exportedPath": "accessoires/fiole-de-poison.html",
+      "dependencies": []
+    },
+    "Accessoires/Fiole de prélèvement.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 51,
+      "exportedPath": "accessoires/fiole-de-prélèvement.html",
+      "dependencies": []
+    },
+    "Accessoires/Informations sur le lot de la soirée.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1715,
+      "exportedPath": "accessoires/informations-sur-le-lot-de-la-soirée.html",
+      "dependencies": []
+    },
+    "Accessoires/Lettre codée Fraternité.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1035,
+      "exportedPath": "accessoires/lettre-codée-fraternité.html",
+      "dependencies": []
+    },
+    "Accessoires/Lettre de remerciements.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1274,
+      "exportedPath": "accessoires/lettre-de-remerciements.html",
+      "dependencies": []
+    },
+    "Accessoires/Lettres d'amour.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4727,
+      "exportedPath": "accessoires/lettres-d'amour.html",
+      "dependencies": []
+    },
+    "Accessoires/Livre favori.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 234,
+      "exportedPath": "accessoires/livre-favori.html",
+      "dependencies": []
+    },
+    "Accessoires/Message d'alerte fraternité.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1889,
+      "exportedPath": "accessoires/message-d'alerte-fraternité.html",
+      "dependencies": []
+    },
+    "Accessoires/Mot doux.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 467,
+      "exportedPath": "accessoires/mot-doux.html",
+      "dependencies": []
+    },
+    "Accessoires/Pastilles de couleur.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 94,
+      "exportedPath": "accessoires/pastilles-de-couleur.html",
+      "dependencies": []
+    },
+    "Accessoires/Photo de François Renaud.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 111,
+      "exportedPath": "accessoires/photo-de-françois-renaud.html",
+      "dependencies": [
+        "lib/media/photo-françois-renaud.jpg"
+      ]
+    },
+    "Accessoires/Photo Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 265,
+      "exportedPath": "accessoires/photo-minuit.html",
+      "dependencies": [
+        "lib/media/minuit.png"
+      ]
+    },
+    "Accessoires/Photo Victor et maire.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 126,
+      "exportedPath": "accessoires/photo-victor-et-maire.html",
+      "dependencies": [
+        "lib/media/photovictormaire.jpg"
+      ]
+    },
+    "Accessoires/Preuve crise de domaines.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1703,
+      "exportedPath": "accessoires/preuve-crise-de-domaines.html",
+      "dependencies": []
+    },
+    "Accessoires/Reçu de vente d'alcool.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2437,
+      "exportedPath": "accessoires/reçu-de-vente-d'alcool.html",
+      "dependencies": []
+    },
+    "Accessoires/Relevés de transferts à la Fraternité.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3352,
+      "exportedPath": "accessoires/relevés-de-transferts-à-la-fraternité.html",
+      "dependencies": []
+    },
+    "Accessoires/Sachet de poudre.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 103,
+      "exportedPath": "accessoires/sachet-de-poudre.html",
+      "dependencies": []
+    },
+    "Accessoires/Tatouage.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 235,
+      "exportedPath": "accessoires/tatouage.html",
+      "dependencies": [
+        "lib/media/tatoo-1.png",
+        "lib/media/tatoo-2.png",
+        "lib/media/tatoo-3.png"
+      ]
+    },
+    "Accessoires/Télégramme Médecin.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1552,
+      "exportedPath": "accessoires/télégramme-médecin.html",
+      "dependencies": []
+    },
+    "Accessoires/Tiroir fermé à clé.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 102,
+      "exportedPath": "accessoires/tiroir-fermé-à-clé.html",
+      "dependencies": []
+    },
+    "Accessoires/Transaction domaine Vaulx.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2215,
+      "exportedPath": "accessoires/transaction-domaine-vaulx.html",
+      "dependencies": []
+    },
+    "Canvas/Accessoires.canvas": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 16733,
+      "exportedPath": "canvas/accessoires.html",
+      "dependencies": [
+        "lib/media/tatoo-1.png",
+        "lib/media/tatoo-2.png",
+        "lib/media/tatoo-3.png",
+        "lib/media/photo-françois-renaud.jpg",
+        "lib/media/photovictormaire.jpg",
+        "lib/media/minuit.png"
+      ]
+    },
+    "Canvas/Association personnages.canvas": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 29397,
+      "exportedPath": "canvas/association-personnages.html",
+      "dependencies": []
+    },
+    "Canvas/General.canvas": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 182044,
+      "exportedPath": "canvas/general.html",
+      "dependencies": [
+        "lib/media/photovictormaire.jpg",
+        "lib/media/minuit.png",
+        "lib/media/photo-françois-renaud.jpg"
+      ]
+    },
+    "Compétences/Analyse graphologique.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 507,
+      "exportedPath": "compétences/analyse-graphologique.html",
+      "dependencies": []
+    },
+    "Compétences/Avantage au jeu.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 647,
+      "exportedPath": "compétences/avantage-au-jeu.html",
+      "dependencies": []
+    },
+    "Compétences/Examen médical.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 445,
+      "exportedPath": "compétences/examen-médical.html",
+      "dependencies": []
+    },
+    "Compétences/Fouille autorisée.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 806,
+      "exportedPath": "compétences/fouille-autorisée.html",
+      "dependencies": []
+    },
+    "Compétences/Vol à la tire.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 671,
+      "exportedPath": "compétences/vol-à-la-tire.html",
+      "dependencies": []
+    },
+    "Évènements/L'opération Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 354,
+      "exportedPath": "évènements/l'opération-minuit.html",
+      "dependencies": []
+    },
+    "Évènements/La crise des Domaines.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1285,
+      "exportedPath": "évènements/la-crise-des-domaines.html",
+      "dependencies": []
+    },
+    "Images/Minuit.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3287676,
+      "exportedPath": "images/minuit.png",
+      "dependencies": []
+    },
+    "Images/Photo François Renaud.jpg": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 369963,
+      "exportedPath": "images/photo-françois-renaud.jpg",
+      "dependencies": []
+    },
+    "Images/PhotoVictorMaire.jpg": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 411296,
+      "exportedPath": "images/photovictormaire.jpg",
+      "dependencies": []
+    },
+    "Images/Tatoo 1.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 8370,
+      "exportedPath": "images/tatoo-1.png",
+      "dependencies": []
+    },
+    "Images/Tatoo 2.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 24199,
+      "exportedPath": "images/tatoo-2.png",
+      "dependencies": []
+    },
+    "Images/Tatoo 3.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 9120,
+      "exportedPath": "images/tatoo-3.png",
+      "dependencies": []
+    },
+    "Lieux/Casino de Montmelas.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 94,
+      "exportedPath": "lieux/casino-de-montmelas.html",
+      "dependencies": []
+    },
+    "Lieux/Minuit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 651,
+      "exportedPath": "lieux/minuit.html",
+      "dependencies": []
+    },
+    "Lieux/Montrevel.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1642,
+      "exportedPath": "lieux/montrevel.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages extérieurs/Ancien maire de Montrevel.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 390,
+      "exportedPath": "personnages/personnages-extérieurs/ancien-maire-de-montrevel.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages extérieurs/Julien Morel.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 110,
+      "exportedPath": "personnages/personnages-extérieurs/julien-morel.html",
+      "dependencies": []
+    },
+    "Personnages/Personnages extérieurs/Olivier de Vaulx.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 88,
+      "exportedPath": "personnages/personnages-extérieurs/olivier-de-vaulx.html",
+      "dependencies": []
+    },
+    "Personnages/Adèle de Vaulx.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2653,
+      "exportedPath": "personnages/adèle-de-vaulx.html",
+      "dependencies": []
+    },
+    "Personnages/Alexandre Beaumont.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4609,
+      "exportedPath": "personnages/alexandre-beaumont.html",
+      "dependencies": []
+    },
+    "Personnages/Antoine Marchand.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4531,
+      "exportedPath": "personnages/antoine-marchand.html",
+      "dependencies": []
+    },
+    "Personnages/Auguste Villedieu.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3084,
+      "exportedPath": "personnages/auguste-villedieu.html",
+      "dependencies": []
+    },
+    "Personnages/Charles Lambert.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3262,
+      "exportedPath": "personnages/charles-lambert.html",
+      "dependencies": []
+    },
+    "Personnages/Clara Morel.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2688,
+      "exportedPath": "personnages/clara-morel.html",
+      "dependencies": []
+    },
+    "Personnages/Claude Vasseur.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3333,
+      "exportedPath": "personnages/claude-vasseur.html",
+      "dependencies": []
+    },
+    "Personnages/Clément Mercier.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3394,
+      "exportedPath": "personnages/clément-mercier.html",
+      "dependencies": []
+    },
+    "Personnages/Émile Garin.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2661,
+      "exportedPath": "personnages/émile-garin.html",
+      "dependencies": []
+    },
+    "Personnages/François Renaud.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4392,
+      "exportedPath": "personnages/françois-renaud.html",
+      "dependencies": []
+    },
+    "Personnages/Gaston Leblanc.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3814,
+      "exportedPath": "personnages/gaston-leblanc.html",
+      "dependencies": []
+    },
+    "Personnages/Gustavia Dufresne.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2997,
+      "exportedPath": "personnages/gustavia-dufresne.html",
+      "dependencies": []
+    },
+    "Personnages/Hélène Duroc.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4817,
+      "exportedPath": "personnages/hélène-duroc.html",
+      "dependencies": []
+    },
+    "Personnages/Henri Duval.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 5481,
+      "exportedPath": "personnages/henri-duval.html",
+      "dependencies": []
+    },
+    "Personnages/Isabelle Fauconnier.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2278,
+      "exportedPath": "personnages/isabelle-fauconnier.html",
+      "dependencies": []
+    },
+    "Personnages/Jacques Montclair.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3378,
+      "exportedPath": "personnages/jacques-montclair.html",
+      "dependencies": []
+    },
+    "Personnages/Louise Garin.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2057,
+      "exportedPath": "personnages/louise-garin.html",
+      "dependencies": []
+    },
+    "Personnages/Lucie Roux.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3214,
+      "exportedPath": "personnages/lucie-roux.html",
+      "dependencies": []
+    },
+    "Personnages/Lucienne Moreau.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4088,
+      "exportedPath": "personnages/lucienne-moreau.html",
+      "dependencies": []
+    },
+    "Personnages/Madeleine Rousseau.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2990,
+      "exportedPath": "personnages/madeleine-rousseau.html",
+      "dependencies": []
+    },
+    "Personnages/Marguerite Blain.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3417,
+      "exportedPath": "personnages/marguerite-blain.html",
+      "dependencies": []
+    },
+    "Personnages/Mauricette Caron.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3414,
+      "exportedPath": "personnages/mauricette-caron.html",
+      "dependencies": []
+    },
+    "Personnages/Maxine (Max) Durand.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3275,
+      "exportedPath": "personnages/maxine-(max)-durand.html",
+      "dependencies": []
+    },
+    "Personnages/Mr. Legrand.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3098,
+      "exportedPath": "personnages/mr.-legrand.html",
+      "dependencies": []
+    },
+    "Personnages/Pauline Derosiers.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3530,
+      "exportedPath": "personnages/pauline-derosiers.html",
+      "dependencies": []
+    },
+    "Personnages/Raphaëlle Saint-Clair.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2543,
+      "exportedPath": "personnages/raphaëlle-saint-clair.html",
+      "dependencies": []
+    },
+    "Personnages/Renée Morin.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4665,
+      "exportedPath": "personnages/renée-morin.html",
+      "dependencies": []
+    },
+    "Personnages/Simone Petit.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3142,
+      "exportedPath": "personnages/simone-petit.html",
+      "dependencies": []
+    },
+    "Personnages/Solange Delcourt.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4555,
+      "exportedPath": "personnages/solange-delcourt.html",
+      "dependencies": []
+    },
+    "Personnages/Tatiana Ivanovna Volkov.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4830,
+      "exportedPath": "personnages/tatiana-ivanovna-volkov.html",
+      "dependencies": []
+    },
+    "Personnages/Victor Delorme.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1710,
+      "exportedPath": "personnages/victor-delorme.html",
+      "dependencies": []
+    },
+    "Pistes/L'affaire Néovarol.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4551,
+      "exportedPath": "pistes/l'affaire-néovarol.html",
+      "dependencies": []
+    },
+    "Pistes/Le Meurtre.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4217,
+      "exportedPath": "pistes/le-meurtre.html",
+      "dependencies": []
+    },
+    "Pistes/Piste de l'amante.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 2752,
+      "exportedPath": "pistes/piste-de-l'amante.html",
+      "dependencies": []
+    },
+    "Pistes/Piste de l'infiltré.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 215,
+      "exportedPath": "pistes/piste-de-l'infiltré.html",
+      "dependencies": []
+    },
+    "Pistes/Piste du dossier.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 6746,
+      "exportedPath": "pistes/piste-du-dossier.html",
+      "dependencies": []
+    },
+    "Pistes/Vol.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 358,
+      "exportedPath": "pistes/vol.html",
+      "dependencies": []
+    },
+    "A penser.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 4856,
+      "exportedPath": "a-penser.html",
+      "dependencies": []
+    },
+    "Années 30 - Casino.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 663,
+      "exportedPath": "années-30-casino.html",
+      "dependencies": []
+    },
+    "Assassin.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 57,
+      "exportedPath": "assassin.html",
+      "dependencies": []
+    },
+    "Complice.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 70,
+      "exportedPath": "complice.html",
+      "dependencies": []
+    },
+    "Famille Lambert.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 86,
+      "exportedPath": "famille-lambert.html",
+      "dependencies": []
+    },
+    "Fiche récap déroulé.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 8265,
+      "exportedPath": "fiche-récap-déroulé.html",
+      "dependencies": []
+    },
+    "Fiche type.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 370,
+      "exportedPath": "fiche-type.html",
+      "dependencies": []
+    },
+    "Fraternité secrète.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 769,
+      "exportedPath": "fraternité-secrète.html",
+      "dependencies": []
+    },
+    "La Loterie.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1043,
+      "exportedPath": "la-loterie.html",
+      "dependencies": []
+    },
+    "Modèle de mail.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3944,
+      "exportedPath": "modèle-de-mail.html",
+      "dependencies": []
+    },
+    "Répartition des chambres.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 1892,
+      "exportedPath": "répartition-des-chambres.html",
+      "dependencies": []
+    },
+    "Tic de langage.md": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 227,
+      "exportedPath": "tic-de-langage.html",
+      "dependencies": []
+    },
+    "lib/media/photo-françois-renaud.jpg": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 369963,
+      "exportedPath": "lib/media/photo-françois-renaud.jpg",
+      "dependencies": []
+    },
+    "lib/media/minuit.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 3287676,
+      "exportedPath": "lib/media/minuit.png",
+      "dependencies": []
+    },
+    "lib/media/photovictormaire.jpg": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 411296,
+      "exportedPath": "lib/media/photovictormaire.jpg",
+      "dependencies": []
+    },
+    "lib/media/tatoo-1.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 8370,
+      "exportedPath": "lib/media/tatoo-1.png",
+      "dependencies": []
+    },
+    "lib/media/tatoo-2.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 24199,
+      "exportedPath": "lib/media/tatoo-2.png",
+      "dependencies": []
+    },
+    "lib/media/tatoo-3.png": {
+      "modifiedTime": 1748263885622,
+      "sourceSize": 9120,
+      "exportedPath": "lib/media/tatoo-3.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 117775,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 10636,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 138258,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 29780,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1748264215298,
+      "sourceSize": 44,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
